@@ -14,6 +14,7 @@
 		28A4FCE1213BA824009E979E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28A4FCDF213BA824009E979E /* LaunchScreen.storyboard */; };
 		28A4FCEC213BA824009E979E /* MultiPartTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28A4FCEB213BA824009E979E /* MultiPartTests.swift */; };
 		28A4FCF7213BA824009E979E /* MultiPartUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28A4FCF6213BA824009E979E /* MultiPartUITests.swift */; };
+		28A4FD05213BAB6A009E979E /* Media.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28A4FD04213BAB6A009E979E /* Media.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		28A4FCF2213BA824009E979E /* MultiPartUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MultiPartUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		28A4FCF6213BA824009E979E /* MultiPartUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiPartUITests.swift; sourceTree = "<group>"; };
 		28A4FCF8213BA824009E979E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		28A4FD04213BAB6A009E979E /* Media.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Media.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				28A4FCD6213BA81D009E979E /* AppDelegate.swift */,
 				28A4FCD8213BA81D009E979E /* ViewController.swift */,
+				28A4FD04213BAB6A009E979E /* Media.swift */,
 				28A4FCDA213BA81D009E979E /* Main.storyboard */,
 				28A4FCDD213BA824009E979E /* Assets.xcassets */,
 				28A4FCDF213BA824009E979E /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			files = (
 				28A4FCD9213BA81D009E979E /* ViewController.swift in Sources */,
 				28A4FCD7213BA81D009E979E /* AppDelegate.swift in Sources */,
+				28A4FD05213BAB6A009E979E /* Media.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
